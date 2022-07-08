@@ -1,4 +1,4 @@
-# archBSPWM
+# dotfiles
 My config files for Arch Linux...
 
 The starting point of this guide is right after a complete clean Arch based
