@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 
-r=$(echo -e "Laptop\nHDMI\nOther" | dmenu -i -p "Select output > " -fn "Terminus-12" -sb "#88c0d0" -sf "#2e3440" -nb "#2e3440") #-fn "Cantarell-14" -nf '#ffb52a' -sb '#ffb52a' -sf '#222')
+r=$(echo -e "Laptop\nHDMI\nOther" | dmenu -i -p "Select output > " -fn "Ubuntu-10" -sb "#83a598" -sf "#282828" -nb "#282828") #-fn "Cantarell-14" -nf '#ffb52a' -sb '#ffb52a' -sf '#222')
 
 case "$r" in
     Laptop) /home/pzeadrian/.config/bspwm/screenlayouts/portatil.sh ;;
