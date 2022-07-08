@@ -7,7 +7,7 @@ If you know what is a display manager, and you don't want it, you can install:
 ```bash
 sudo pacman -S xorg-xinit
 ```
-The configuration for xinit is included in .config files so it will be added automatically, but you have to check the README files in [init_session](https://github.com/pzeadrian/dotfilesArch/tree/main/2_DesktopGUI/init_session) and [zsh](https://github.com/pzeadrian/dotfilesArch/tree/main/2_DesktopGUI/zsh) for applying these settings.
+The configuration for xinit is included in .config files so it will be added automatically, but you have to check the README files in [init_session](https://github.com/pzeadrian/dotfiles/tree/main/2_DesktopGUI/xorg-xinit) for applying these settings.
 
 Also, I recommend you to install an AUR helper, because some packages are going to be downloaded from that repository.
 You could try:
