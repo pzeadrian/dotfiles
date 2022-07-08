@@ -154,4 +154,4 @@ sudo pacman -S vlc
 For managing networks, I use [Network Manager](https://wiki.archlinux.org/title/NetworkManager) with the terminal command nmcli
 
 ## List of installed packages
-I have included a list of all my currently installed packages in case you want to check
+I have included a list of all my currently installed [packages](https://github.com/pzeadrian/dotfiles/blob/main/3_Basics/packages.install) in case you want to check
