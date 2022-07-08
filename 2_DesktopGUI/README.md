@@ -38,13 +38,6 @@ For copying my config, you should do:
 ```bash
 mkdir Documents
 mkdir .config
-git clone https://github.com/pzeadrian/dotfilesArch
-cd Documents/dotfilesArch/2_DesktopGUI
-./configureBSPWM
+git clone https://github.com/pzeadrian/dotfiles
 ```
-
-The polybar installation will install another Window Manager called i3 by default. For remove it:
-```bash
-sudo pacman -Rns i3-wm
-sudo pacman -Sc
-```
+and copy the contents of [GUI](https://github.com/pzeadrian/dotfiles/tree/main/2_DesktopGUI) in ~/.config/
